@@ -94,6 +94,7 @@ button:hover{
     float : right;
     height: 40px;
     width: 40px;
+    margin-top: -15px;
     cursor: pointer;
 }
 
